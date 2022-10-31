@@ -1,0 +1,7 @@
+git clone https://github.com/antiloch/Day_01.git
+git checkout -b develop_koledova
+cd src
+touch Quest_0.command_history
+touch Quest_1.command_history
+vim Quest_1.command_history
+vim Quest_0.command_history
